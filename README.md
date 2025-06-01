@@ -39,6 +39,8 @@ A simple weather application that displays real-time weather information for any
 
 ## FOLDER STRUCTURE
 
+```
+
 Weather-App/
 │
 ├── public/
@@ -72,3 +74,4 @@ Weather-App/
 ├── eslint.config.js
 ├── index.html
 └── README.md
+```
